@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg8480"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="H.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8482"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.65053824"
+     inkscape:cx="308.97492"
+     inkscape:cy="268.23942"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs8477" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 16.537018,0 H 115.758 c 9.0941,0 16.53366,7.4428919 16.53366,16.537017 V 115.758 c 0,9.09301 -7.43956,16.53366 -16.53366,16.53366 H 16.537018 C 7.442862,132.29166 0,124.85101 0,115.758 V 16.537017 C 0,7.4428919 7.442862,0 16.537018,0"
+       style="fill:#bfbfb9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1491" />
+    <g
+       aria-label="H"
+       id="text16810"
+       style="font-weight:bold;font-size:70.7255px;line-height:2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.264584">
+      <path
+         d="M 86.607191,91.286537 H 76.24701 V 69.737361 H 56.044657 V 91.286537 H 45.684476 V 41.005126 H 56.044657 V 61.380148 H 76.24701 V 41.005126 h 10.360181 z"
+         id="path24020" />
+    </g>
+  </g>
+</svg>
